@@ -1,4 +1,5 @@
 # AcademicGenealogy
 
-#todo
-#scrape data and insert r code for visualizing
+# todo:
+#   scrape webdata
+#   insert r code for visualizing
