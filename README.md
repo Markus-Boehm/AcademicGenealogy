@@ -1,6 +1,6 @@
 # Visualization of my academic genealogy
 
-!(AcademicGenealogyAlter.png)
+![AcademicGenealogyAlter.png](AcademicGenealogyAlter.png)
 
 !()
 
